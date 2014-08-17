@@ -1,0 +1,3 @@
+http://www.brewerydb.com/developers/docs-endpoint/style_index
+http://api.brewerydb.com/v2/styles?key=4967aafa6105f5d5d354fa30d5a5a0ad
+
